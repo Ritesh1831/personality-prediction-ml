@@ -44,6 +44,8 @@ This project is a text-based personality prediction system built using Natural L
 4. The result is displayed along with a short personality description.
    ![deployment_img1](https://github.com/user-attachments/assets/c6d8cec0-abee-4f55-9348-0b219224a2f4)
    ![deployment_img2](https://github.com/user-attachments/assets/829a2c00-9935-4a5f-b9b8-05c94eacc3e2)
+   ![deployment_img3](https://github.com/user-attachments/assets/2be33140-9233-4c4b-a19c-cad34b1e5a99)
+
 
 --
 
