@@ -23,7 +23,6 @@ This project is a text-based personality prediction system built using Natural L
 ├── static/ # Static files (CSS/JS)
 ├── templates/ # HTML templates
 ├── deployment images/ # Reference images (MBTI chart, etc.)
-└── venv/ # Virtual environment (excluded in .gitignore)
 
 --
 
